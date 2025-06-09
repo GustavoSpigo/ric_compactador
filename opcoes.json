@@ -1,0 +1,23 @@
+[
+  {
+    "nomePacote": "Unity",
+    "tipo": "GitIgnore",
+    "UrlGitIgnore": "https://raw.githubusercontent.com/github/gitignore/main/Unity.gitignore",
+    "LinhaComando": "",
+    "filtroArquivo": "Arquivos ZIP (*.zip)|*.zip"
+  },
+  {
+    "nomePacote": "Node.js",
+    "tipo": "GitIgnore",
+    "UrlGitIgnore": "https://raw.githubusercontent.com/github/gitignore/main/Node.gitignore",
+    "LinhaComando": "",
+    "filtroArquivo": ""
+  },
+  {
+    "nomePacote": "Python",
+    "tipo": "GitIgnore",
+    "UrlGitIgnore": "https://raw.githubusercontent.com/github/gitignore/main/Python.gitignore",
+    "LinhaComando": "",
+    "filtroArquivo": ""
+  }
+]
